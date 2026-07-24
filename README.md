@@ -1,5 +1,5 @@
 # kashaf-khan
 BSAI
 2nd repository
-add new features
+add update features
 
